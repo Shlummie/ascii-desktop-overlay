@@ -1,0 +1,5 @@
+ASCIIVisionNative.exe
+*.obj
+*.pdb
+*.ilk
+pet-runs/
